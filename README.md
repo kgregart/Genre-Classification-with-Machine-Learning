@@ -2,12 +2,12 @@
 
 ![readme](https://github.com/kgregart/genre/blob/main/Images/readme.jpg)
 
-# Background
+## Background
 
 
 
-# Instructions
+## Instructions
 
 
 
-# Results
+## Results
