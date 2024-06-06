@@ -14,7 +14,9 @@ Using SciKit and Spark, create a Python script that initializes, trains and eval
 
 ### Modeling
 
+Split
 Scale
+Fit
 Train
 Test
 Evaluate
