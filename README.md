@@ -8,7 +8,14 @@ Using SciKit and Spark, create a Python script that initializes, trains and eval
 
 ## Instructions
 
+### Preprocessing 
+
+### Processing
+
+### Optimization
+
+
+## Results Summary
 
 
 
-## Results
