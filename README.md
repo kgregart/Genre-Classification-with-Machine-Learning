@@ -5,9 +5,9 @@
 ## Background
 
 
-
 ## Instructions
 
+Using SciKit and Spark, create a Python script that initializes, trains and evaluates a model that classifies the genre of music utilizing neural networking machine learning.
 
 
 ## Results
