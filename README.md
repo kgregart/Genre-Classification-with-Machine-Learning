@@ -49,5 +49,7 @@ __6. Predict__
 
 ## Results Summary
 
+![Accuracy](https://github.com/kgregart/genre_classification/blob/main/Images/Accuracy.png)
+
 
 
