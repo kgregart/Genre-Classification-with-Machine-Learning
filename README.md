@@ -32,6 +32,8 @@ __4. Define Model__
 
 - Identify the number of epochs, nodes, hidden layers and type of activation
 
+  ![Neural_Network](https://github.com/kgregart/genre_classification/blob/main/Images/neural%20network.png)
+
 __5. Train and Test the data__
 
 - Fit the model to the training data
