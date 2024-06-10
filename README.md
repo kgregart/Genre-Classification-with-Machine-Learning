@@ -53,8 +53,8 @@ The ReLU activation was initially chosen because the data is not linear and ReLU
 
 Throughout the optimization process activations were changed, layers and neurons were added, features were removed, epochs were increased, and additional data was added.
 
+__Model Optimization Techniques__
 
-	Model Optimization Techniques
 -	Layers:  Initialized testing with 2 hidden layers and increased to 3
 -	Neurons:  Began testing with 10 nodes for each layer and continued to add additional nodes
 -	Epochs:  Started testing with 25 epochs and increased up to 200
@@ -62,8 +62,7 @@ Throughout the optimization process activations were changed, layers and neurons
 -	Data:  Added additional data 
 -	Features:  Removed features weighted with the least amount of importance
 
-
-
+![Feature_Importance](https://github.com/kgregart/genre_classification)
 
 After optimizing and analyzing the several models developed, the best model to predict music genre is shown below, producing a 75.09% accuracy and 59.9% loss of data.   
 
