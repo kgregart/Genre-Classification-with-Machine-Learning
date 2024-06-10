@@ -62,7 +62,7 @@ __Model Optimization Techniques__
 -	Data:  Added additional data 
 -	Features:  Removed features weighted with the least amount of importance
 
-![Feature_Importance](https://github.com/kgregart/genre_classification)
+![Feature_Importance](https://github.com/kgregart/genre_classification/blob/main/Images/Feature%20Importance.png)
 
 After optimizing and analyzing the several models developed, the best model to predict music genre is shown below, producing a 75.09% accuracy and 59.9% loss of data.   
 
