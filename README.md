@@ -49,7 +49,32 @@ __6. Predict__
 
 ## Results Summary
 
+The ReLU activation was initially chosen because the data is not linear and ReLU is known to be the most popular activation function for deep learning models as it offers advantages such as computational power for classification data.  
+
+Throughout the optimization process activations were changed, layers and neurons were added, features were removed, epochs were increased, and additional data was added.
+
+
+	Model Optimization Techniques
+-	Layers:  Initialized testing with 2 hidden layers and increased to 3
+-	Neurons:  Began testing with 10 nodes for each layer and continued to add additional nodes
+-	Epochs:  Started testing with 25 epochs and increased up to 200
+-	Classifications:  Ran several models using Leaky ReLu, Tanh, ReLu and Sigmoid
+-	Data:  Added additional data 
+-	Features:  Removed features weighted with the least amount of importance
+
+
+
+
+After optimizing and analyzing the several models developed, the best model to predict music genre is shown below, producing a 75.09% accuracy and 59.9% loss of data.   
+
 ![Accuracy](https://github.com/kgregart/genre_classification/blob/main/Images/A.png)
+
+-	Nodes:  128, 64, 32
+-	3 Hidden Layers:  ReLu
+-	1 Output Layer:  Softmax 
+-	200 epochs
+
+
 
 
 
