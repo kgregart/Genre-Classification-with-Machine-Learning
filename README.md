@@ -61,7 +61,7 @@ __Model Optimization Techniques__
 -	Classifications:  Ran several models using Leaky ReLu, Tanh, ReLu and Sigmoid
 -	Data:  Added additional data 
 -	Features:  Removed features weighted with the least amount of importance
--	Models: Ran unsupervised and supervised machine models to compare results to the neural networking model
+-	Models: Ran unsupervised and supervised machine learning methods to compare results to the neural networking model
 
 ![Feature_Importance](https://github.com/kgregart/genre_classification/blob/main/Images/Feature%20Importance.png)
 
